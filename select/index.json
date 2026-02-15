@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "海月（feat. asmi）",
+  "base_artist": "okano_skywalker",
+  "createdAt": "2026-02-15T09:21:34.243275Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海月 (feat. asmi)",
+      "artist": "okano_skywalker",
+      "has_synced": false,
+      "path": "select/pl_01_海月_(feat._asmi)_okano_skywalker.txt"
+    }
+  ]
+}
